@@ -1,4 +1,4 @@
-public class linearserach {
+public class binarysearch {
      public static int binarysearch(int arr[],int target){
         int startindex=0;
         int endindex=arr.length-1;

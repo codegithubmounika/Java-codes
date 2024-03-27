@@ -1,7 +1,7 @@
 package patterns;
 
 public class Starpattern {
-    public static void pattern6(int n){
+    public static void star(int n){
         for(int row=1;row<=n;row++){
             System.out.print(" ".repeat(n-row));
             System.out.print("*".repeat(row));
@@ -10,6 +10,6 @@ public class Starpattern {
         }
     }
     public static void main(String[] args) {
-        pattern6(6);
+        star(6);
     }
 }

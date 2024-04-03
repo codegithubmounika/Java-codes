@@ -1,6 +1,6 @@
 package strings;
 
-public class Suffle {
+public class Shuffle {
     //leetcode question no - 1528 Shuffle  the String
     public static void shuffle(int arr[],String c){
         StringBuilder n=new StringBuilder("");

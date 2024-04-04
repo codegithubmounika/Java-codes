@@ -1,6 +1,7 @@
 package strings;
 
 public class PressedKey {
+    //leetcode question no - 952 Long Pressed Name 
     public static boolean pressedkey(String sc,String typed){
         boolean ans=true;
         int i=0;
